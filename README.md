@@ -1,6 +1,7 @@
 # Hi, I'm [Burak Yesil](https://github.com/Burak-Yesil) 👋
 
-Senior CS Major at Stevens Institute of Technology with a passion for Machine Learning, Deep Learning, Concurrent Programming, and Operating Systems | [Email](mailto:burakyes15@gmail.com) | [LinkedIn](https://linkedin.com/in/burak-yesil)
+- I'm a Senior CS Major with a concentration in Artificial Intelligence at Stevens Institute of Technology
+- I have a passion for Deep Learning, Machine Learning, Concurrent Programming, and Operating Systems.
 
 ## 🛠 Skills
 - **Languages:** Python, Java, C, C++, JavaScript, React JS, OCaml, SQL, Erlang, Groovy, HTML/CSS
