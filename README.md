@@ -4,7 +4,7 @@ Senior CS Major at Stevens Institute of Technology with a passion for Machine Le
 
 ## 🛠 Skills
 - **Languages:** Python, Java, C, C++, JavaScript, React JS, OCaml, SQL, Erlang, Groovy, HTML/CSS
-- **Technologies/Tools:** Linux, Git, Docker, Docker Swarm, FastAPI, PostgresSQL, Redis, RabbitMQ, NumPy, Pandas, PyTorch, TensorFlow, Hyperledger Fabric, AWS, Postman, MongoDB, MeteorJS, Flask
+- **Technologies/Tools:** Linux, Git, Docker, Docker Swarm, FastAPI, Redis, RabbitMQ, NumPy, Pandas, PyTorch, TensorFlow, Hyperledger Fabric, AWS, Postman, MongoDB, MeteorJS, Flask
 
 ## 📈 GitHub Stats
 
