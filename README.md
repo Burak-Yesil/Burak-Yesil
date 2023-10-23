@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burak-Yesil)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+[[![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burak-Yesil)](https://github.com/anuraghazra/github-readme-stats)
+](https://github-readme-stats.vercel.app/api/top-langs/?username=Burak-Yesil&hide=php&theme=midnight-purple&layout=compact&langs_count=8)<!--
 **Burak-Yesil/Burak-Yesil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
