@@ -1,6 +1,6 @@
 # Hi, I'm [Burak Yesil](https://github.com/Burak-Yesil) 👋
 
-Senior CS Major at Stevens Institute of Technology | [Email](mailto:burakyes15@gmail.com) | [LinkedIn](https://linkedin.com/in/burak-yesil)
+Senior CS Major at Stevens Institute of Technology with a passion for Machine Learning, Deep Learning, Concurrent Programming, and Operating Systems | [Email](mailto:burakyes15@gmail.com) | [LinkedIn](https://linkedin.com/in/burak-yesil)
 
 ## 🛠 Skills
 - **Languages:** Python, Java, C, C++, JavaScript, React JS, OCaml, SQL, Erlang, Groovy, HTML/CSS
@@ -8,7 +8,7 @@ Senior CS Major at Stevens Institute of Technology | [Email](mailto:burakyes15@g
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burak-Yesil&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burak-Yesil&layout=compact)
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
