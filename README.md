@@ -35,9 +35,4 @@ Relevant Courses: Operating Systems, Concurrent Programming, Database Management
 **Deehr Market** - Co-Founder *(July 2023)*  
 - Developed a healthcare Dapp empowering users with full ownership of their private healthcare data.
 
-## 📫 How to reach me:
-
-- [Email](mailto:burakyes15@gmail.com)
-- [LinkedIn](https://linkedin.com/in/burak-yesil)
-
 ## 🔥 Recent GitHub Activity
