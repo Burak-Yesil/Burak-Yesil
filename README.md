@@ -8,8 +8,7 @@ Senior CS Major at Stevens Institute of Technology | [Email](mailto:burakyes15@g
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burak-Yesil&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Burak-Yesil&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burak-Yesil&layout=compact) 
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
