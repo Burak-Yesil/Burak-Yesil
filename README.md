@@ -1,6 +1,6 @@
 # Hi, I'm [Burak Yesil](https://github.com/Burak-Yesil) 👋
 
-- I'm a Senior CS Major with a concentration in Artificial Intelligence at Stevens Institute of Technology
+- I'm a recent CS grad from Stevens Institute of Technology with a concentration in Artificial Intelligence.
 - I have a passion for Deep Learning, Machine Learning, Concurrent Programming, and Operating Systems.
 
 ## 🛠 Skills
