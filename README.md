@@ -1,7 +1,7 @@
 # Hi, I'm [Burak Yesil](https://github.com/Burak-Yesil) 👋
 
 - I'm a recent CS grad from Stevens Institute of Technology with a concentration in Artificial Intelligence.
-- I have a passion for Deep Learning, Machine Learning, Concurrent Programming, and Operating Systems.
+- I have a passion for Quantitative Risk, Deep Learning, Machine Learning, Concurrent Programming, and Operating Systems.
 
 ## 🛠 Skills
 - **Languages:** Python, Java, C, C++, JavaScript, React JS, OCaml, SQL, Erlang, Groovy, HTML/CSS
